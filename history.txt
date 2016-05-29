@@ -1,0 +1,114 @@
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Server at 127.0.0.1 and port 7000 disconnected
+
+
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Server at 127.0.0.1 and port 7000 disconnected
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Wait !
+-->Can't connect the server. Check other side if the server is running.
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Server at 127.0.0.1 and port 7000 disconnected
+
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Server at 127.0.0.1 and port 7000 disconnected
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+-->Server at 127.0.0.1 and port 7000 disconnected
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->Wait !
+-->Server connected on 127.0.0.1 and port 7000
